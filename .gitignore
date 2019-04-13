@@ -11,6 +11,7 @@ target/
 auto-save-list
 tramp
 .\#*
+.bloop
 
 *~
 \#*\#
@@ -20,3 +21,4 @@ tramp
 auto-save-list
 tramp
 .\#*
+/.bloop/
